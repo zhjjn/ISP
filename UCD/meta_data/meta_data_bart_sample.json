@@ -1,0 +1,7 @@
+{
+  "path_to_train_data": "./data/sample_data/train_valid_data.json",
+  "path_to_test_data": "./data/sample_data/test_data.json",
+  "path_to_word_defn_wordnet": "./data/dictionaries/dictionary_wordnet.json",
+  "path_to_word_defn_wiktionary": "./data/dictionaries/dictionary_wiktionary.json",
+  "path_to_word_defn_google": "./data/dictionaries/dictionary_google.json"
+}
